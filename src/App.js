@@ -56,13 +56,9 @@ export default () => {
         ))}
       </div>
       <footer>
-        Feito com{" "}
-        <span role="img" arial-label="coração">
-          ❤️
-        </span>{" "}
-        por Luanna Alves Miranda.
+        Desenvolvido por Luanna Alves Miranda.
         <br />
-        Desenvolvedor Fullstack JS - SoiTech <br />
+        Desenvolvedor Fullstack JS <br />
         Direito de imagens para Netfix <br />
         Dados Themoviedb.org
       </footer>

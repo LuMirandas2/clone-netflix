@@ -9,6 +9,7 @@ export default ({ black }) => {
           <img src="netflix-logo.png" alt="Netflix" />
         </a>
       </div>
+      
       <div className="header-user">
         <img src="icone-usuario.png" alt="Usuário" />
       </div>
